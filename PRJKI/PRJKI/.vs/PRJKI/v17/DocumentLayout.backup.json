@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hong\\PRJKI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|C:\\Hong\\PRJKI\\prjki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|C:\\Hong\\PRJKI\\prjki\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|C:\\Hong\\PRJKI\\prjki\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|C:\\Hong\\PRJKI\\prjki\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|C:\\Hong\\PRJKI\\prjki\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|C:\\Hong\\PRJKI\\prjki\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|c:\\hong\\prjki\\prjki\\prjki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B8C75F3-FFC9-4FC2-8F84-2212A1631EE1}|PRJKI\\PRJKI.csproj|solutionrelative:prjki\\prjki.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form4.Designer.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form4.Designer.cs",
+              "RelativeToolTip": "PRJKI\\Form4.Designer.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAIwKwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:59:40.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form4.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form4.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form4.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PRJKI\\Form4.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:29:58.393Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form7.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form7.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form7.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form7.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PRJKI\\Form7.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:54:33.84Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form4.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form4.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form4.cs",
+              "RelativeToolTip": "PRJKI\\Form4.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAtwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:25:15.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form6.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form6.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form6.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form6.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PRJKI\\Form6.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:35:19.64Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form2.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form2.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PRJKI\\Form2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:09:33.697Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form1.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form1.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PRJKI\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:03:13.322Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form5.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form5.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form5.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PRJKI\\Form5.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:12:57.479Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form5.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form5.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form5.cs",
+              "RelativeToolTip": "PRJKI\\Form5.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:56:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form3.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form3.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form3.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "PRJKI\\Form3.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:41:47.248Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form3.Designer.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form3.Designer.cs",
+              "RelativeToolTip": "PRJKI\\Form3.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAewFgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:33:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form1.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form1.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form1.cs",
+              "RelativeToolTip": "PRJKI\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:09:36.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form3.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form3.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form3.cs",
+              "RelativeToolTip": "PRJKI\\Form3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:14:40.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form2.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form2.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form2.cs",
+              "RelativeToolTip": "PRJKI\\Form2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:43:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form6.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form6.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form6.cs",
+              "RelativeToolTip": "PRJKI\\Form6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:37:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form7.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form7.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form7.cs",
+              "RelativeToolTip": "PRJKI\\Form7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:56:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Form2.Designer.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Form2.Designer.cs",
+              "RelativeToolTip": "PRJKI\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:13:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\Program.cs",
+              "RelativeDocumentMoniker": "PRJKI\\Program.cs",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\Program.cs",
+              "RelativeToolTip": "PRJKI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:46:20.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PRJKI.csproj",
+              "DocumentMoniker": "C:\\Hong\\PRJKI\\PRJKI\\PRJKI.csproj",
+              "RelativeDocumentMoniker": "PRJKI\\PRJKI.csproj",
+              "ToolTip": "C:\\Hong\\PRJKI\\PRJKI\\PRJKI.csproj",
+              "RelativeToolTip": "PRJKI\\PRJKI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T11:46:47.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
